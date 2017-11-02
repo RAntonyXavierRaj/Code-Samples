@@ -1,0 +1,15 @@
+
+Minor projects attached:
+
+1. Stock Market Model (A simple model of stocks and trade recording)
+	(Future Scope: this can me remodelled by using SOLID principles in Factory Method)
+
+2. Spelling corrector (re-created based on my previous work)
+	(Future Scope: This can be remodelled using more conditions to check for complex bag of words models)
+
+3. Dissertation (Examination of the impact of using shorter time periods to collate data into general insurance run-off triangles and comparison with Curve Fitting Techniques)
+	(Future Scope: More complex curve fitting techniques must be examined for industrial implementation)
+
+4. Code snippets (while refreshing concepts in codility and Hackerrank, most concepts I refreshed from online resources)
+
+5. https://www.hackerrank.com/rubhan_ax (refreshing for cracking coding interviews since october)
